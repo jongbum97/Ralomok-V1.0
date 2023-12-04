@@ -83,7 +83,10 @@ JSP와 Servlet으로 구현한 렌주룰 오목사이트 입니다.
 
 ## 4. 기능
 
-[게임 기능](./img/Ralomok.mp4)
+### 게임 플레이
+https://github.com/jongbum97/Ralomok-V1.0/assets/126944322/c72cb2c5-81bb-4b04-8127-ae085e539fe0
+
+
 
 ## 5. 프로젝트 후기
 
